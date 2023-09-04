@@ -1,2 +1,2 @@
 # AAA_DataScrape
-Pulling 2023 Pitch Level Data using BaseballR
+Pulling 2023 AAA Pitch Level Data using BaseballR
